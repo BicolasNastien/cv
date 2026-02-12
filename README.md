@@ -1,1 +1,1 @@
-[![CV](./cv.png)](./cv.pdf)
+[Télécharger le CV (PDF)](./main.pdf?raw=true)
