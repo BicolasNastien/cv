@@ -1,1 +1,1 @@
-[![CV](./cv.png)](./main.pdf)
+[![CV](./cv.png)](./cv.pdf)
