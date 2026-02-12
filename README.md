@@ -1,1 +1,1 @@
-[Télécharger le CV (PDF)](./main.pdf?raw=true)
+[Télécharger le CV (PDF)](./cv.pdf?raw=true)
